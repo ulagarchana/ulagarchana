@@ -1,16 +1,16 @@
-# Hi, I'm Ulagarchana 👋
+# Hi, I'm Ulagarchana
 
 ### AI/ML Engineer | M.S. Computer Science @ Arizona State University | Researcher @ CoRAL Lab
 
 I build intelligent systems that turn machine learning research into useful products. My work spans **generative AI, retrieval-augmented generation, computer vision, recommendation systems, and multimodal AI**, with applications in healthcare, logistics, and agriculture.
 
-- 🔭 Currently exploring reliable, grounded AI systems and multimodal learning
-- 🎓 M.S. in Computer Science at Arizona State University (2025–2027)
-- 🔬 Research experience at CoRAL Lab, ASU
-- 📄 Published work on Zero Trust security and role-based access control for medical records at IEEE ICSTSN 2024
-- 💼 Open to AI/ML engineering, applied scientist, and data science internships and opportunities
-- 📍 Tempe, Arizona
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/ulagarchana-u)
+-  Currently exploring reliable, grounded AI systems and multimodal learning
+-  M.S. in Computer Science at Arizona State University (2025–2027)
+-  Research experience at CoRAL Lab, ASU
+-  Published work on Zero Trust security and role-based access control for medical records at IEEE ICSTSN 2024
+-  Open to AI/ML engineering, applied scientist, and data science internships and opportunities
+-  Tempe, Arizona
+-  Connect with me on [LinkedIn](https://www.linkedin.com/in/ulagarchana-u)
 
 ## Featured Projects
 
